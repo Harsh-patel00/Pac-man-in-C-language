@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1514696673 source:e:\harsh\my codings\experiment\pockman\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+
+1533870434 source:e:\pockman\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+
