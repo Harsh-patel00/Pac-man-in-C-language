@@ -10,6 +10,6 @@ Current feature available :
       3. If you press any of the "Arrow-key" then our pacman can boost it's speed
       
 Features to be added :
-      1. The main thing in pacman i.e map is left to code.
-      2. The Ghosts which haunt pac-man are left ot code.
+      1. Random maps.
+      2. The Ghosts.
       3. Score board.
